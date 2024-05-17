@@ -6,7 +6,7 @@ Este repositório contém um projeto em ROS 2, capaz de mover a tartaruga do **_
 
 Para executar este projeto, é necessário ter o **ROS 2** e o **turtlesim** instalados além de possuir o **Linux** como sistema operacional (também é possível utiliar o WSL).
 
-É necessário realizar este [tutorial](https://rmnicola.github.io/m6-ec-encontros/workspaces#12-workspace-ros) e colar no caminho a pasta deste repositório no caminho `seu_workspace/src`. Para isso, execute o comando abaixo:
+É necessário realizar este [tutorial](https://rmnicola.github.io/m6-ec-encontros/workspaces#12-workspace-ros) para criar seu workspace para a execução do projeto.
 
 ## Como executar
 
@@ -23,4 +23,4 @@ Para executar o projeto, siga os passos abaixo:
 
 Clique na imagem abaixo para assistir ao vídeo de demonstração do projeto:
 
-[![Vídeo de demonstração](https://arminlab.com/wp-content/uploads/2022/09/icons8-youtube-play-button-2048-300x300.png)]()
+[![Vídeo de demonstração](https://arminlab.com/wp-content/uploads/2022/09/icons8-youtube-play-button-2048-300x300.png)](https://youtu.be/vlLFJW5KrEY)
